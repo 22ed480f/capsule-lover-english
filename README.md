@@ -7,10 +7,15 @@ An unofficial English translation for [Capsule Lover](https://store.steampowered
 # Installation (Windows)
 
 1. Download **CapsuleLover-English.exe** from [Releases](https://github.com/22ed480f/capsule-lover-english/releases).
-2. Close the game, open the installer, and click **Install English**.
-3. Click **Play**. Keep **Simplified Chinese** selected in the game.
+2. Close the game and open the installer.
+3. If SmartScreen shows **Windows protected your PC**, choose **More info → Run anyway** if you trust the EXE downloaded from this repo. The EXE is unsigned.
+4. Click **Install English**, then **Play**. Keep **Simplified Chinese** selected in the game.
+
+![Installer after installing English](installer-example.png)
 
 If the game isn't found, click **Choose game…** and select `CapsuleLover.exe`. [Report a problem](https://github.com/22ed480f/capsule-lover-english/issues).
+
+![English dialogue in the game backlog](english-example.png)
 
 ---
 

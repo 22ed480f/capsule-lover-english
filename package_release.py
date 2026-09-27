@@ -12,6 +12,7 @@ ROOT = Path(__file__).resolve().parent
 SOURCE_FILES = [
     "patch.py", "patch.py.lock", "installer.py", "gui.py", "pyproject.toml", "uv.lock",
     "README.md", "THIRD-PARTY.md", "english.json",
+    "installer-example.png", "english-example.png",
     ".gitignore", ".github/workflows/build.yml", "build_windows.py", "package_release.py",
 ]
 PYTHON_README = """# Capsule Lover — minimal Python patcher
