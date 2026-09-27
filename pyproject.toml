@@ -1,0 +1,12 @@
+[project]
+name = "capsule-lover-english"
+version = "0.1.0b1"
+description = "Unofficial Capsule Lover English translation patch"
+requires-python = ">=3.11,<3.14"
+dependencies = ["UnityPy==1.25.3", "lz4==4.4.5"]
+
+[dependency-groups]
+build = ["pyinstaller==6.22.3"]
+
+[tool.uv]
+package = false
